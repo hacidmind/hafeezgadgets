@@ -2,9 +2,9 @@ import GadgetBlogList from '../pages/GadgetBlogList';
 import UseCustomHook from '../useCustomHook';
 
 const GadgetBlog = () => {
-    let URL = "http://localhost:8000/blogs"
+    // let URL = "http://localhost:8000/blogs"
 
-    // let URL = "https://my-json-server.typicode.com/hacidmind/deviceDb/blogs";
+    let URL = "https://my-json-server.typicode.com/hacidmind/deviceDb/blogs";
 
     const { data: blogs, isLoading, isError } = UseCustomHook(`${URL}`)
 
