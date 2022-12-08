@@ -1,0 +1,74 @@
+{
+  "blogs": [
+    {
+      "id": 1,
+      "title": "Macbook Pro",
+      "body": "Apple in October 2021 overhauled the high-end MacBook Pro, introducing a new design, new chips, new capabilities, and more. As Apple says, the revamped MacBook Pro models offer up extraordinary performance and the world's best notebook display. The 2021 MacBook Pro models come in 14.2-inch and 16.2-inch size options and they're equipped with mini-LED displays, more ports, up to 64GB memory, and more powerful Apple silicon chips, the M1 Pro and M1 Max. In short, they are the best MacBook Pro models to date. Apple's new MacBook Pro models can be configured with the M1 Pro chip or the M1 Max chip. Both chips feature a 10-core CPU with eight high-performance cores and two high-efficiency cores, though there is a lower-end 8-core model available for the entry-level 14-inch MacBook Pro. There's also a 16-core Neural Engine in both chips.",
+      "coo": "America",
+      "pix": "https://techcrunch.com/wp-content/uploads/2022/06/CMC_1384.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Microsoft Surface",
+      "body": "FOR SOME OF the best Windows hardware on the market, look no further than Microsoft's Surface brand. Best known for innovative, tablet-like designs, Microsoft has expanded its Surface line over the years and now offers a full family of computers, from a standard laptop to a giant desktop. It's hard to find a PC maker today that doesn't ape the Surface's kickstand-packing, detachable-keyboard-rocking design. It's also hard to find a nicer Windows experience than that offered by the Surface. The problem is one of choice; with such a diverse family of premium computers, which is best for your needs? We've sorted through the options and found the best Surface for everyone.",
+      "coo": "America",
+      "pix": "https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Surface-Pro-8-HL-Powerful:VP1-539x400"
+    },
+    {
+      "id": 3,
+      "title": "Toshiba",
+      "body": "Apart from its amazing speakers, the last Toshiba notebook we looked at – the Toshiba Satellite A300-177 – was a fairly standard budget affair. However, entering the upper-class light notebook fray on Toshiba’s behalf we have the brand new Portégé M800-106, a fairly stylish 13.3 incher with some decent specifications. In terms of looks, the M800 has undergone a bit of an overhaul from the A300-177. Though it does maintain a similar overall look, including the pin-stripe motif, it’s far more coherent. That is to say, in everything but colour: unusually, the entire top including the lid and keyboard’s bezel is white, while the base of the machine, where the ports are located, is matte black. Personal preferences for black aside, it might have been nice of Toshiba had it made the whole thing a single colour, or at least gone for grey over black.",
+      "coo": "Japan",
+      "pix": "https://m.media-amazon.com/images/I/616LiZsNLHL.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Samsung",
+      "body": "The 15.6-inch Samsung Galaxy Book2 Pro 360 (starts at $1,349.99; $1,549.99 as tested) is a refinement of the original convertible we reviewed last year. The main draw is a new 12th Generation Intel processor, boosting the 2-in-1's performance without changing its ultra-slim design and brilliant AMOLED display. A smaller 13.3-inch model and a non-convertible (clamshell) version are also available, but we've tested the hybrid flagship here. Weighing in at just 3.1 pounds, the Galaxy Book2 Pro 360's portability is exceptional for a 15-inch-class laptop, and its tremendous 18-hour battery life boosts its mobility even further. You'll find a bit more power in some similarly sized and priced alternatives and even higher-quality design in a few systems such as the Dell XPS 15 OLED, but there are few real flaws here if you like a big 2-in-1.",
+      "coo": "Korea",
+      "pix": "https://m.media-amazon.com/images/I/819QD8+XiFL._SL1500_.jpg"
+    },
+    {
+      "title": "Galaxy",
+      "coo": "Korea",
+      "body": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+      "id": 8
+    },
+    {
+      "title": "S22",
+      "coo": "Korea",
+      "body": " is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).",
+      "id": 9
+    },
+    {
+      "title": "PS5",
+      "coo": "Japan",
+      "body": " is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).",
+      "id": 10
+    },
+    {
+      "title": "Nintendo",
+      "coo": "Japan",
+      "body": " is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).",
+      "id": 12
+    },
+    {
+      "title": "Hoover",
+      "coo": "UK",
+      "body": "Why do we use it?\nIt is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).",
+      "id": 13
+    },
+    {
+      "title": "TV",
+      "coo": "China",
+      "body": "Why do we use it?\nIt is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).",
+      "id": 14
+    },
+    {
+      "title": "Radio",
+      "coo": "China",
+      "body": "Why do we use it?\nIt is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).",
+      "id": 17
+    }
+  ]
+}
